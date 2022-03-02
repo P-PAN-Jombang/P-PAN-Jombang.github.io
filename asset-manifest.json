@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.958ce727.css",
-    "main.js": "/static/js/main.a45927fd.js",
+    "main.css": "/static/css/main.5793e586.css",
+    "main.js": "/static/js/main.5f4762c8.js",
+    "static/media/Ketua_1.png": "/static/media/Ketua_1.71f772d6fa72de1a564b.png",
+    "static/media/Ketua_2.png": "/static/media/Ketua_2.c9207488dae7703fb540.png",
+    "static/media/logo.png": "/static/media/logo.a6c1f5fde1c15214dc3a.png",
     "index.html": "/index.html",
-    "main.958ce727.css.map": "/static/css/main.958ce727.css.map",
-    "main.a45927fd.js.map": "/static/js/main.a45927fd.js.map"
+    "main.5793e586.css.map": "/static/css/main.5793e586.css.map",
+    "main.5f4762c8.js.map": "/static/js/main.5f4762c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.958ce727.css",
-    "static/js/main.a45927fd.js"
+    "static/css/main.5793e586.css",
+    "static/js/main.5f4762c8.js"
   ]
 }
